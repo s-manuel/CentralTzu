@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "CentralTzu"
 include(":app")
+include(":app")
+ 
